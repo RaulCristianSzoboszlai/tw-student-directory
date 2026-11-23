@@ -1,0 +1,28 @@
+# Medii virtuale
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Baza de date locala
+db.sqlite3
+db.sqlite3-journal
+
+# Fisiere sensibile
+.env
+.env.*
+
+# IDE / sistem de operare
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Fisiere temporare
+*.log
+*.tmp
+*.swp
